@@ -1,0 +1,46 @@
+ARAF,NK intracellular
+BID,target intracellular
+BRAF,NK intracellular
+FAS,target cell membrane
+HLA-B*,target cell membrane
+HLA-G*,target cell membrane
+ICAM1,target cell membrane
+IFNG,NK intracellular
+IFNGR1,target cell membrane
+IFNGR2,target cell membrane
+KIR2DL4,NK cell membrane
+KLRC1,NK cell membrane
+KRAS,NK intracellular
+LCP2,NK intracellular
+MICA*,target cell membrane
+MICB*,target cell membrane
+NCR1,NK cell membrane
+NFAT5,NK intracellular
+NFATC2,NK intracellular
+NRAS,NK intracellular
+PIK3CA,NK intracellular
+PIK3CB,NK intracellular
+PIK3CD,NK intracellular
+PIK3CG,NK intracellular
+PIK3R1,NK intracellular
+PIK3R5,NK intracellular
+PLCG1,NK intracellular
+PPP3CA,NK intracellular
+PPP3CC,NK intracellular
+PPP3R1,NK intracellular
+PTK2B,NK intracellular
+PTPN6,NK intracellular
+RAF1,NK intracellular
+SH2D1A,NK intracellular
+SH2D1B,NK intracellular
+SH3BP2,NK intracellular
+SOS1,NK intracellular
+SOS2,NK intracellular
+TNF,NK intracellular
+TNFRSF10A,target cell membrane
+TNFRSF10B,target cell membrane
+TNFRSF10D,target cell membrane
+TNFSF10,NK cell membrane
+ULBP3*,target cell membrane
+VAV2,NK intracellular
+VAV3,NK intracellular
